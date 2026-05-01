@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/civic-records-scribe.git"
+    "url": "https://github.com/sdevkota/civic-records-scribe.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/civic-records-scribe/issues"
+    "url": "https://github.com/sdevkota/civic-records-scribe/issues"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/civic-records-scribe/"
+  "homepage": "https://sdevkota.github.io/civic-records-scribe/"
 }
